@@ -1,4 +1,4 @@
-class Problem1 extends ConsoleProgram {
+class Main extends ConsoleProgram {
 
   public void run() {    
     
