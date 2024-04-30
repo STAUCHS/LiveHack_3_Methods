@@ -1,11 +1,8 @@
-# Instructions
+# LiveHack 3 - Methods
 
-1. Write the solution code to your assigned problem in the appropriate java file i.e Problem1.java or Problem2.java
-2. Make sure you follow proper programming style conventions in your solutions.
-3. Commit and push your code to github to submit your work.  If you are get a prompt indicating that your username or useremail needs to be set: enter the following in the terminal:
-
-```
-git config --global user.name yourGithubUsername
-git config --global user.email yourGithubAccountEmail
-```
-
+## Instructions
+For each of the specified problems:
+* Define your methods within the Main.java class that provides a solution to the problem
+* Update the `run()` method with code that verifies the functionality of your method against different input parameter values.
+* Include javadoc header comments for your method, be sure to document parameter and return value details.
+* Method signatures must be exactly as specified in the problem.
